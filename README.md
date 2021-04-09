@@ -5,6 +5,7 @@ Become a patron, by simply clicking on this button:
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/jumibot/)
 
-Become a patron, by simply clicking on this button (**very appreciated!**):
+## Invite Jumi
+You can invite Jumi by clicking the photo below!
 
-[![](https://i.ibb.co/CWhtS4S/invitejumi.jpg)](https://www.patreon.com/z3nth10n)
+[![](https://i.ibb.co/CWhtS4S/invitejumi.jpg)](https://invite.jumibot.xyz)
