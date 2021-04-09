@@ -15,3 +15,8 @@ You can invite Jumi by clicking the photo below!
 JumiBot is not an opensource project. You can never get the source code of the bot (unless you support us on patreon https://www.patreon.com/jumibot/).
 
 ## How to submit an issue
+- On GitHub, navigate to the main page of the repository.
+- Under your repository name, click Issues.
+- Click New issue.
+- Choose the issue type you would submit
+- Fill in all the required information
