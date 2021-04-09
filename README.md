@@ -1,4 +1,5 @@
 # Jumi_Issues
+You may submit any issues/ bugs relating to Jumi here!
 
 ## Donating
 Become a patron, by simply clicking on this button:
@@ -9,3 +10,8 @@ Become a patron, by simply clicking on this button:
 You can invite Jumi by clicking the photo below!
 
 [![](https://i.ibb.co/CWhtS4S/invitejumi.jpg)](https://invite.jumibot.xyz)
+
+## This is not the source code!
+JumiBot is not an opensource project. You can never get the source code of the bot (unless you support us on patreon https://www.patreon.com/jumibot/).
+
+## How to submit an issue
